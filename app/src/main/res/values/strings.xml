@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">QuizApp</string>
+    <string name="app_name">Quiz App</string>
+    <string name="question_1">1. Which of the following is a Nigeria flag?</string>
+    <string name="question_2">2. Pick the odd one out (not an Africa country)?</string>
+    <string name="question_3">3. This logo belongs to which country?</string>
+    <string name="question_4">4. Check colors you can see in Nigeria Flag?</string>
 </resources>
